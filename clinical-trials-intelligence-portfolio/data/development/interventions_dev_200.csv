@@ -1,0 +1,493 @@
+nct_id,intervention_type,intervention_name,description
+NCT06695130,BIOLOGICAL,RIV (recombinant influenza vaccine),"Influenza, inactivated, split virus or surface antigen"
+NCT06695130,BIOLOGICAL,rC19 (dose 1),Protein subunit
+NCT06695130,BIOLOGICAL,RIV + rC19 (dose 1),"RIV component: Influenza, inactivated, split virus or surface antigen NVXC19 component: Protein subunit"
+NCT06695130,BIOLOGICAL,RIV + rC19 (dose 2),"RIV component: Influenza, inactivated, split virus or surface antigen NVXC19 component: Protein subunit"
+NCT06695130,BIOLOGICAL,RIV + rC19 (dose 3),"RIV component: Influenza, inactivated, split virus or surface antigen NVXC19 component: Protein subunit"
+NCT06695130,BIOLOGICAL,RIV + rC19 (dose 4),"RIV component: Influenza, inactivated, split virus or surface antigen NVXC19 component: Protein subunit"
+NCT06695130,OTHER,Placebo (0.9% NaCl),Normal saline
+NCT05035030,DRUG,Odevixibat,Odevixibat is a small molecule and selective inhibitor of IBAT.
+NCT03754465,BIOLOGICAL,ALLO-ASC-DFU,Application of ALLO-ASC-DFU Sheet to diabetic foot ulcer
+NCT03754465,PROCEDURE,Hydrogel SHEET(Vehicle control),Application of Hydrogel SHEET to diabetic foot ulcer
+NCT03319667,DRUG,Isatuximab SAR650984,"Pharmaceutical form: Solution for infusion
+
+Route of administration: Intravenous (IV)"
+NCT03319667,DRUG,Bortezomib,"Pharmaceutical form: Lyophilized powder for injection
+
+Route of administration: Subcutaneous"
+NCT03319667,DRUG,Lenalidomide,"Pharmaceutical form: Capsules
+
+Route of administration: Oral"
+NCT03319667,DRUG,Dexamethasone,"Pharmaceutical form: Tablets, ampoules or vials for injection
+
+Route of administration: Oral/Intravenous"
+NCT04475107,DRUG,Pyronaridine-Artesunate,Pyramax
+NCT04475107,DRUG,Placebo,Placebo
+NCT03888092,DRUG,Z650,"receive oral Z650 once daily until disease progression or unacceptable toxicity occurs, each cycle is defined as 28 days"
+NCT04538911,DRUG,BCG-PPD,"BCG-PPD was used for skin test in 30 TB patients, and BCG-PPD was marketed in other 30 TB patients (as control)"
+NCT03002571,DRUG,IDP-124 Lotion,"IDP-124 Lotion, twice-daily application"
+NCT03002571,DRUG,IDP-124 Vehicle Lotion,"IDP-124 Vehicle Lotion, twice-daily application"
+NCT06161571,DRUG,Efruxifermin,Administered by subcutaneous (SC) injection
+NCT06161571,DRUG,Placebo,Administered by SC injection
+NCT06948799,DRUG,STSP-0902 injection,Subjects will receive the administration dose on Day 1 following protocol requirements
+NCT06948799,DRUG,Placebo,Subjects will receive the administration dose on Day 1 following protocol requirements
+NCT03695198,DRUG,LY3361237 - SC,LY3361237 administered SC
+NCT03695198,DRUG,LY3361237 - IV,LY3361237 administered IV
+NCT03695198,DRUG,Placebo - SC,Placebo administered SC
+NCT03695198,DRUG,Placebo - IV,Placebo administered IV
+NCT02985398,BIOLOGICAL,ALD403 (Eptinezumab),
+NCT06439563,DRUG,JP-1366 10 mg,"JP-1366 10 mg, tablet, orally once a day for up to 24 weeks"
+NCT06439563,DRUG,Lanston Capsule 15 mg,Lanston Capsule 15 mg orally once a day for up to 24 weeks
+NCT06439563,DRUG,JP-1366 10 mg placebo,"JP-1366 10 mg placebo, tablet, orally once a day for up to 24 weeks"
+NCT06439563,DRUG,Lanston Capsule 15 mg placebo,"Lanston Capsule 15 mg placebo, orally once a day for up to 24 weeks"
+NCT04593121,DRUG,BIIB107,Administered as specified in the treatment arm.
+NCT04593121,DRUG,Placebo,Administered as specified in the treatment arm.
+NCT02986321,DRUG,CHF6001,Dose response: Test one of 4 different doses of CHF6001
+NCT02986321,DRUG,Budesonide,active control
+NCT02986321,DRUG,Placebo,placebo control
+NCT03409614,DRUG,REGN2810,REGN2810 plus Platinum-based doublet chemotherapy Part 1 and Part 2
+NCT03409614,DRUG,REGN2810/chemo/ipi,REGN2810 plus abbreviated chemotherapy plus Ipilimumab Part 1
+NCT03409614,OTHER,Chemotherapy,Platinum-based doublet chemotherapy Part 1
+NCT03409614,DRUG,Placebo,Matching placebo Part 2
+NCT07253116,DRUG,WJ22096,WJ22096: orally once daily after meal
+NCT02723006,DRUG,TAK-580,TAK-580 tablets
+NCT02723006,DRUG,TAK-202,TAK-202 infusion
+NCT02723006,DRUG,vedolizumab,vedolizumab infusion
+NCT02723006,DRUG,nivolumab,nivolumab infusion
+NCT02723006,DRUG,ipilimumab,ipilimumab infusion
+NCT04485884,DRUG,IN-C005 dose A,One time dose of IN-C005 dose A taken orally.
+NCT04485884,DRUG,IN-C005 dose B,One time dose of IN-C005 dose B taken orally.
+NCT04485884,DRUG,IN-C005 dose C,One time dose of IN-C005 dose C taken orally.
+NCT04485884,DRUG,IN-C005 dose D,Oral administration of IN-C005 dose D once daily for 7 days.
+NCT04485884,DRUG,IN-C005 dose E,Oral administration of IN-C005 dose E once daily for 7 days.
+NCT04485884,DRUG,IN-C005 dose F,Oral administration of IN-C005 dose F once daily for 7 days.
+NCT05195749,DRUG,101-PGC-005 ('005) + SOC,Three consecutive days of '005 administration
+NCT05195749,DRUG,Placebo + SOC,Three consecutive days of placebo administration
+NCT03775538,DRUG,Cerebral Dopamine Neurotrophic Factor,Repeated intracerebral infusions
+NCT03775538,DEVICE,Renishaw Drug Delivery System,Stereotactically implanted device
+NCT02365558,DRUG,Evacetrapib,Administered orally
+NCT02365558,DRUG,Omeprazole,Administered orally
+NCT05294458,DRUG,cotadutide solution for injection,cotadutide solution for injection
+NCT05479058,DRUG,Filgotinib,Administered orally once daily
+NCT05479058,DRUG,Placebo,Administered orally once daily
+NCT03329248,BIOLOGICAL,ALT-803,Recombinant human super agonist interleukin-15 (IL-15) complex
+NCT03329248,BIOLOGICAL,ETBX-011,"Ad5 \[E1-, E2b-\]-CEA"
+NCT03329248,BIOLOGICAL,GI-4000,Vaccine derived from recombinant Saccharomyces cerevisiae yeast expressing mutant Ras proteins
+NCT03329248,BIOLOGICAL,haNK for infusion,"NK-92 \[CD16.158V, ER IL-2\]"
+NCT03329248,BIOLOGICAL,avelumab,Recombinant human anti-PD-L1 IgG1 monoclonal antibody
+NCT03329248,BIOLOGICAL,bevacizumab,Recombinant human anti-VEGF IgG1 monoclonal
+NCT03329248,DRUG,Capecitabine,5'-deoxy-5-fluoro-N-\[(pentyloxy) carbonyl\]-cytidine
+NCT03329248,DRUG,Cyclophosphamide,"2-\[bis(2-chloroethyl)amino\]tetrahydro-2H-1,3,2-oxazaphosphorine 2-oxide monohydrate"
+NCT03329248,DRUG,Fluorouracil,"5-fluoro-2,4 (1H,3H)-pyrimidinedione"
+NCT03329248,DRUG,Leucovorin,"L-Glutamic acid, N-\[4-\[\[(2-amino-5-formyl-1,4,5,6,7,8-hexahydro-4-oxo-6-pteridinyl)methyl\]amino\]benzoyl\]-, calcium salt"
+NCT03329248,DRUG,nab-Paclitaxel,"Benzenepropanoic acid, β-(benzoylamino)-α-hydroxy-(2aR, 4S, 4aS, 6R, 9S, 11S, 12S, 12aR, 12bS)-6,12b-bis(acetyloxy)-12-(benzoyloxy)-2a, 3, 4, 4a, 5, 6, 9, 10, 11, 12, 12a, 12b-dodecahydro-4,11-dihydroxy-4a, 8, 13, 13-tetramethyl-5-oxo-7,11-methano-1H-cyclodeca\[3,4\]benz\[1,2-b\]oxet-9-y1ester,(αR,βS)-(9CI) bound to albumin"
+NCT03329248,DRUG,lovaza,Omega-3-acid ethyl esters
+NCT03329248,DRUG,Oxaliplatin,"cis-\[(1 R,2 R)-1,2-cyclohexanediamine-N,N'\] \[oxalato(2-)- O,O'\] platinum"
+NCT03329248,PROCEDURE,SBRT,Stereotactic Body Radiation Therapy
+NCT04900428,BIOLOGICAL,COVI-DROPS,COVI-DROPS is a fully human monoclonal antibody which is a neutralizing antibody to SARS-CoV-2
+NCT04900428,DRUG,Placebo,Diluent solution
+NCT03782467,BIOLOGICAL,ATOR-1015,Bispecific human monoclonal antibody targeting cytotoxic T-lymphocyte associated protein 4 (CTLA-4) and OX40 (also known as CD134)
+NCT02410200,DRUG,dimethyl fumarate,
+NCT07570992,DRUG,NNC1679-0001,NNC1679-0001 will be administered subcutaneously.
+NCT07570992,DRUG,Placebo,Placebo will be administered subcutaneously.
+NCT07219511,DRUG,VS-041,"VS-041 high dose, VS-041 low dose or Placebo tablet BID"
+NCT07219511,OTHER,Placebo,Placebo to match VS-041
+NCT03399734,DRUG,Perampanel,Single oral dose of 1 x 4-mg perampanel tablet
+NCT03399734,DRUG,Perampanel,Single 4-mg dose of perampanel fine granules
+NCT02697864,DRUG,tafamidis,
+NCT06761898,DRUG,BGB-43395,Administered orally as solid dispersion tablet or salt tablet
+NCT06761898,DRUG,BGB-43395,Administered orally as solid dispersion tablet or salt tablet
+NCT05715398,DRUG,BR790+anlotinib,"BR790 will be administered orally, variable dose on Day 1 of each 21-day cycle， Anlotinib will be administered as PO fixed dose on Day1-14 of each 21-day cycle"
+NCT06478693,DRUG,MT-303,MT-303
+NCT06478693,DRUG,MT-303 +Atezolizumab + Bevacizumab,MT-303 in combination with Atezo/Bev
+NCT03010787,DRUG,V565,single ascending dose of V565
+NCT03010787,DRUG,V565,Multiple dose
+NCT03010787,DRUG,Placebo,Single and multiple dose
+NCT03010787,DRUG,V565,Open-label single dose
+NCT03010787,DRUG,V565,Open-label single ascending dose
+NCT05958121,DRUG,IMA402,IV infusions
+NCT05958121,DRUG,IMA402 and checkpoint inhibitor,IMA402 IV infusions and checkpoint inhibitor
+NCT05958121,DRUG,IMA402 and chemotherapy,IMA402 IV infusions and chemotherapy
+NCT05958121,DRUG,IMA402 and IMA401,IMA402 and IMA401 IV infusions
+NCT05958121,DRUG,IMA402 and monoclonal antibody,IMA402 IV infusions and monoclonal antibody
+NCT05958121,DRUG,IMA402 and chemotherapy +/- monoclonal antibody,IMA402 IV infusions and chemotherapy +/- monoclonal antibody
+NCT03178214,DRUG,Infacort,Immediate-release multiparticulate formulation of hydrocortisone.
+NCT04396106,DRUG,AT-527,One 550 mg tablet of AT-527 administered every \~12 hours (twice a day) for a total of 5 days
+NCT04396106,OTHER,Placebo,One placebo tablet administered every \~12 hours (twice a day) for a total of 5 days
+NCT04396106,DRUG,AT-527,Two 550 mg tablets of AT-527 administered every \~12 hours (twice a day) for a total of 5 days
+NCT04396106,OTHER,Placebo,Two placebo tablets administered every \~12 hours (twice a day) for a total of 5 days
+NCT03274206,BIOLOGICAL,BLS-ILB-E710c,BLS-ILB-E710c 250mg/capsule
+NCT03274206,DRUG,Placebo,BLS-ILB-E710c-placebo
+NCT06994806,DRUG,KQB168,Oral KQB168
+NCT06994806,DRUG,Pembrolizumab,Intravenous pembrolizumab
+NCT02545504,DRUG,Andecaliximab,800 mg administered intravenously on Days 1 and 15 of each 28-day treatment cycle
+NCT02545504,DRUG,Placebo,Administered intravenously on Days 1 and 15 of each treatment cycle
+NCT02545504,DRUG,Leucovorin,Administered intravenously per standard of care on Days 1 and 15 of each treatment cycle
+NCT02545504,DRUG,5-fluorouracil,Administered intravenously per standard of care on Days 1 and 15 of each treatment cycle
+NCT02545504,DRUG,Oxaliplatin,Administered intravenously per standard of care on Days 1 and 15 of each treatment cycle
+NCT06007638,DRUG,LY3876602,Administered IV.
+NCT06007638,DRUG,Placebo,Administered IV.
+NCT02881138,DRUG,RC48-ADC,
+NCT06987058,DRUG,RVU120,"RVU120 is a potent, selective inhibitor of CDK8 and its paralog CDK19"
+NCT07287748,DRUG,[211At]NaAt,MTD or MTD-1 level to be tested
+NCT03865238,BIOLOGICAL,EV71vac,Subjects are to receive a 0.5 mL IM injection of EV71vac. Study drug is administered on Day 1 and Day 57 of the study. Subjects 2 months to \< 2 years of age will receive a booster vaccination on Day 366.
+NCT03865238,BIOLOGICAL,Placebo,Subjects are to receive a 0.5 mL IM injection of placebo. Study drug is administered on Day 1 and Day 57 of the study. Subjects 2 months to \< 2 years of age will receive a booster vaccination on Day 366.
+NCT04975958,DRUG,AN2025,oral administration
+NCT04975958,DRUG,AN0025,oral administration
+NCT04975958,DRUG,Atezolizumab 1200 mg in 20 ML Injection,infusion
+NCT06135155,DRUG,PEG-rhGH with new preparation,A single subcutaneous injection of PEG-rhGH with new preparation
+NCT06135155,DRUG,PEG-rhGH with present preparation,A single subcutaneous injection of PEG-rhGH with present preparation
+NCT06479226,DRUG,cetylpyridinium chloride (0.075%) and zinc alcohol free mouthwash,mouthrinse
+NCT05282407,DRUG,Tenofovir disoproxil 245mg,1 tablet q.d. for 48 weeks
+NCT05282407,DRUG,Tenofovir disoproxil fumarate 300mg,1 tablet q.d. for 48 weeks
+NCT06907511,BIOLOGICAL,Pandemic flu H5 HA mRNA SD2 vaccine,"Pharmaceutical Form:
+
+Suspension in a vial
+
+Route of Administration:
+
+Intramuscular injection"
+NCT06907511,OTHER,Placebo,"Pharmaceutical Form:
+
+Liquid solution in a vial
+
+Route of Administration:
+
+Intramuscular injection"
+NCT04136834,BIOLOGICAL,PT01 (Pegtomarginase),"PT01 (Pegtomarginase) breaks down arginine in the blood stream, reducing the supply of arginine and stopping the cancer cells from growing. Normal cells can continue to make their own arginine inside the cell, so PT01 targets the rapidly growing cancer cells."
+NCT03486834,BIOLOGICAL,V160,"V160 was administered as a 0.5 mL (100 Units/0.5 mL dose with Merck aluminum phosphate adjuvant \[MAPA\], 4°C stable formulation) IM injection."
+NCT03486834,DRUG,Placebo,Saline solution administered as a 0.5 mL IM injection
+NCT04029909,DRUG,Gimatecan 0.6mg/m2/d,0.6mg/m2/d for once a day for 5 consecutive days of Gimatecan
+NCT04029909,DRUG,0.8mg/m2/d,0.8mg/m2/d for once a day for 5 consecutive days of Gimatecan
+NCT04029909,DRUG,0.4mg/m2/d,0.4mg/m2/d for once a day for 5 consecutive days of Gimatecan
+NCT02422199,DRUG,pyrotinib,
+NCT02422199,DRUG,Lapatinib,
+NCT02422199,DRUG,capecitabine,
+NCT04323098,BIOLOGICAL,valoctocogene roxaparvovec,Adeno-Associated Virus Vector-Mediated Gene Transfer of Human Factor VIII in Hemophilia A
+NCT02560363,DRUG,AZD9977 immediate release (IR) oral suspension,"120 mg (4.8 mL x 25 mg/mL) oral suspension, single dose"
+NCT02560363,DRUG,AZD9977 extended release (ER) capsules [fast],120 mg (2 x 60mg capsules) single dose
+NCT02560363,DRUG,AZD9977 extended release (ER) capsules [intermediate],120 mg (2 x 60mg capsules) single dose
+NCT02560363,DRUG,AZD9977 extended release (ER) capsules [slow],120 mg (2 x 60mg capsules) single dose
+NCT02293993,DRUG,SGI-110,
+NCT03379493,BIOLOGICAL,ET190L1 ARTEMIS™ T cells,"Autologous T cells transduced with lentivirus encoding an anti-CD19 (ET190L1) ARTEMIS™ expression construct, administered by intravenous (IV) infusion"
+NCT06347016,DRUG,Plozasiran Injection,ARO-APOC3 Injection
+NCT06347016,DRUG,Placebo,sterile normal saline (0.9% NaCl)
+NCT03537404,DRUG,Narlaprevir,"100 mg, film-coated tablets, taken as 200 mg per os daily"
+NCT03537404,DRUG,Ritonavir,"100 mg, film-coated tablets, taken as 100 mg per os daily"
+NCT03537404,DRUG,Tenofovir Disoproxil Fumarate,"300 mg, film-coated tablets, taken as 300 mg per os daily"
+NCT03537404,DRUG,Raltegravir,"400 mg, film-coated tablets, taken as 400 mg per os daily"
+NCT03995784,BIOLOGICAL,Coagulation Factor IX variant,Single intravenous injection of CB2679d/Dalcinonacog alfa
+NCT03995784,BIOLOGICAL,Coagulation Factor IX variant,Daily subcutaneous injections of CB2679d/Dalcinonacog alfa for 28 days
+NCT02560584,DRUG,Hexaminolevulinate hydrochloride,Instillation in bladder
+NCT02560584,DEVICE,KARL STORZ D-Light C PDD Flexible Videoscope System,Cystoscopy procedure
+NCT04274933,DRUG,Venetoclax,Tablet; Oral
+NCT04274933,DRUG,Capecitabine,Tablet; Oral
+NCT04938752,DRUG,DA-2811,single dose administration (one tablet once a day)
+NCT04938752,DRUG,DA-2811-R,single dose administration (one tablet once a day)
+NCT02984852,DRUG,Darunavir (DRV),Darunavir 800 milligram (mg) will be taken orally in FDC together with COBI(150mg)/FTC(200mg)/TAF(10mg).
+NCT02984852,DRUG,Cobicistat (COBI),Cobicistat 150 milligram (mg) will be taken orally in FDC together with DRV(800mg)/FTC(200mg)/TAF(10mg).
+NCT02984852,DRUG,Emtricitabine (FTC),Emtricitabine 200 milligram (mg) will be taken orally in FDC together with COBI(150mg)/DRV(800mg)/TAF(10mg).
+NCT02984852,DRUG,Tenofovir Alafenamide (TAF),Tenofovir Alafenamide 10 milligram (mg) will be taken orally in FDC together with COBI(150mg)/FTC(200mg)/DRV(800mg).
+NCT03536949,DRUG,RVL-1201,"RVL-1201 ophthalmic solution, 0.1%"
+NCT03536949,OTHER,Vehicle ophthalmic solution,Vehicle placebo ophthalmic solution
+NCT04903158,DRUG,test SHR3680 tablets,Subjects receiving a single oral dose of SHR3680 tablets with 240mg (80mg\*3)
+NCT04903158,DRUG,reference SHR3680 tablets,subjects receiving a single oral dose of SHR3680 tablets with 240mg (100mg\*2+20mg\*2).
+NCT04808648,DRUG,SH-1028,"tablet, oral, 200 mg once daily for day 1 and day 12"
+NCT04808648,DRUG,Itraconazole,"capsule, oral, 200 mg twice daily for day 8 to day 14"
+NCT04808648,DRUG,Rifampicin,"capsule, oral, 600 mg once daily for day 8 to day 16"
+NCT03277248,BIOLOGICAL,Ublituximab,Administered as an IV infusion.
+NCT03277248,DRUG,Teriflunomide,Film coated tablets administered orally.
+NCT03277248,DRUG,Oral Placebo,Administered orally.
+NCT03277248,DRUG,IV Placebo,Administered as an IV Infusion.
+NCT05775848,DRUG,BBP-418 (ribitol),The BBP-418 drug product is provided as Granules for Oral solution consisting of BBP-418 drug substance and silicon dioxide in a multilaminate sachet with a foil barrier. Silicon dioxide is generally regarded as safe and listed in the FDA IIAD. Silicon dioxide is a compendial excipient and is commonly used in pharmaceutical dosage forms. The BBP-418 Granules for Oral Solution are provided in sachets.The BBP-418 Granules for Oral Solution are reconstituted in water for oral administration.
+NCT05775848,OTHER,Placebo,A placebo matched for similar taste and appearance was compounded at the clinical pharmacy with sucralose as a 0.35 mg/mL oral solution in purified water (USP) in a glass container. Sucralose is similar in taste to the compounded drug product.
+NCT02638948,DRUG,BMS-986142,BMS986142 specific dose on specific days
+NCT02638948,DRUG,Placebo,Placebo of BMS-986142 specific dose on specific days
+NCT02638948,DRUG,Methotrexate,Methotrexate specific dose on specific days
+NCT05823948,DRUG,Insulin Icodec,"Participants will receive insulin icodec once-weekly subcutaneously into the thigh, upper arm or abdomen."
+NCT03268226,DRUG,Beclometasone dipropionate/Formoterol Fumarate/Glycopyrronium,An inhaled dose of CHF 5993 pMDI 100+6+12.5 μg twice a day (Total daily dose: BDP 400 μg / FF 24 μg / GB 50 μg)
+NCT07511010,DRUG,Chiglitazar/Metformin extended-release tablets under fasting conditions,a single dose of Chiglitazar/Metformin extended-release tablets under fasting conditions
+NCT07511010,DRUG,Chiglitazar/Metformin extended-release tablets after a high-fat meal,a single dose of Chiglitazar/Metformin extended-release tablets after a high-fat meal
+NCT07511010,DRUG,multiple-dose of Chiglitazar/Metformin extended-release tablets,"a single dose on Day 1, once-daily consecutive doses from Day 4 to Day 10"
+NCT03686124,BIOLOGICAL,IMA203 Product,The cell dose will be based on viable CD3+CD8+ HLA- Dextramer+ cells per body surface area (BSA) as defined by the Mosteller formula
+NCT03686124,BIOLOGICAL,IMA203 product- flat dose,The cell dose will be based on viable CD3+CD8+ HLA- Dextramer+ cells
+NCT03686124,BIOLOGICAL,IMA203CD8 Product,The cell dose will be based on viable CD3+CD8+ HLA- Dextramer+ cells per body surface area (BSA) as defined by the Mosteller formula
+NCT03686124,DRUG,Nivolumab,"Nivolumab will be given post IMA203/IMA203CD8 infusion, after hematologic recovery is achieved. Clinical supply provided by Bristol Myers Squibb."
+NCT03686124,DEVICE,IMADetect®,IMADetect® is developed as a companion diagnostic to aid in selecting patients with relapsed and/or refractory solid cancers who might be eligible for enrollment in Immatics clinical trials.
+NCT07239323,BIOLOGICAL,Invivo CAR-T,"Patients were enrolled and given a single dose of CAR-T injection intravenously, hospitalized for observation over the following month, and followed up for observation over the following 2 years."
+NCT07083323,DRUG,HY05350 for injection,"HY05350 should be administered intravenously at planned dosage, once a week, once every two weeks, or once every three weeks, until disease progression or intolerable toxicity occurs."
+NCT07083323,DRUG,HY05350 for injection,"HY05350 should be administered intravenously at recommended dose, once a week, once every two weeks, or once every three weeks, until disease progression or intolerable toxicity occurs."
+NCT05862623,DRUG,AER-01,AER-01 solution for inhalation delivered via nebulizer
+NCT05862623,DRUG,Placebo,Placebo for solution for inhalation delivered via nebulizer
+NCT05650580,DRUG,TR115,"TR115 is supplied as tablet with dosage strength of 100mg. TR115 tablet will be administered orally on a continuous twice daily (BID) schedule and a treatment cycle is defined as 28 days for the purposes of scheduling procedures and evaluations. TR115 tablets will be given until there appears evidence of progressive disease , intolerable toxicity, or the subject discontinues from the study treatment for other reasons. Proposed daily dose (BID): 100mg, 200mg, 400mg, 800mg, 1200mg, 1600mg. It is possible for additional and/or intermediate dose levels to be added during the course of the study. Cohorts may be added at any dose level below the Maximum Tolerated Dose (MTD) in order to better understand safety, Pharmacokinetic (PK) or Pharmacodynamic (PD)."
+NCT02795273,DRUG,Grass-SPIRE,
+NCT02795273,DRUG,Placebo,
+NCT05869669,DRUG,Neflamapimod,Neflamapimod is a highly specific inhibitor of the intra-cellular enzyme mitogen-activated protein kinase14 (p38α) provided in 40mg capsules
+NCT05869669,DRUG,Placebo,Placebo is a capsule that looks just like neflamapimod but without the active ingredients
+NCT05678283,DRUG,[14C]CC-90010,Specified dose on specified days
+NCT05678283,DRUG,CC-90010,Specified dose on specified days
+NCT07658183,DRUG,BL0175,"BL0175 is a nano-medicine for cancer therapy. ""Nano-medicine"" means the tiny size of this study drug allows it to enter and concentrate into the tumor tissue. This is a new way of delivering an active drug (an estrogen receptor down regulator) for the treatment of tumor directly into tumor tissue."
+NCT03941483,DRUG,ASP1128,Intravenous Infusion
+NCT03941483,DRUG,Placebo,Intravenous Infusion
+NCT02482441,DRUG,OMP-131R10,There are 5 planned dose cohorts of OMP-131R10. Dose escalation will follow a traditional 3+3 framework. Treatment will be continued until progressive disease or unacceptable toxicity.
+NCT02482441,DRUG,FOLFIRI,Treatment will consist of OMP-131R10 and the FOLFIRI chemotherapy regimen.
+NCT06005441,DRUG,CBL-514 injection,Provided as a ready for use injectable CBL-514 solution
+NCT06005441,DRUG,CBL-A1 Injection,Provided as a ready for use injectable CBL-A1 solution
+NCT06005441,DRUG,CBL-A2 Injection,Provided as a ready for use injectable CBL-A2 solution
+NCT06005441,DRUG,0.9% Sodium Chloride,Sodium Chloride (0.9% NaCl) placebo for injection
+NCT04451083,DRUG,FOY-305,Multiple-dose of FOY-305 will be administered orally at 4 times/day.
+NCT07568041,DRUG,8M2D,"8M2D administered by subcutaneous injection. Evaluated across single ascending doses (Part I) and multiple ascending doses (Part II) in healthy participants, and as multiple doses in participants with early Alzheimer's disease (Part III)."
+NCT07568041,DRUG,Placebo,Matching placebo administered by subcutaneous injection in healthy participants across the single ascending dose (Part I) and multiple ascending dose (Part II) parts of the study.
+NCT06512883,DRUG,Benralizumab,Benralizumab will be administered as SC injection on Q4W.
+NCT06276283,DRUG,DZD9008 plus Bevacizumab,"DZD9008, 200 mg or 300 mg, once daily plus Bevacizumab 15 mg/kg, once every 3 weeks"
+NCT05847205,DRUG,r-Hirudin,100 Patients will be treated with r-Hirudin (Thrombexx) for a total of 15 days beginning with 15 mg BID s.c starting 6 hours after surgery or upon adequate hemostasis and continued until end of study.
+NCT02426905,DRUG,trientine dihydrochloride,A retrospective review of patients' medical records
+NCT03599466,DRUG,BF-Lisinopril Tablets 20mg,BF-Lisinopril Tablets 20mg is a generic product manufactured by Bright Future Pharmaceuticals Factory O/B Bright Future Pharmaceutical Laboratories Limited
+NCT03599466,DRUG,Zestril Tab 20mg,Zestril Tab 20mg will be used as a reference drug in this study
+NCT04494256,DRUG,BIIB105,Administered as specified in the treatment arm.
+NCT04494256,DRUG,Placebo,Administered as specified in the treatment arm.
+NCT03056456,DRUG,LY900014,Administered subcutaneously (SC)
+NCT03056456,DRUG,Insulin Lispro (Humalog),Administered SC
+NCT04225156,BIOLOGICAL,efgartigimod,Intravenous infusion of efgartigimod
+NCT06832722,DRUG,AK1967 (Invobenitug also known as Procizumab),DPP3 inhibition using the humanized monoclonal antibody AK1967 (Procizumab)
+NCT06832722,DRUG,Placebo,Application of placebo
+NCT04495322,DRUG,TG-1000,Subjects will receive one single oral dose of TG-1000 on day 1 following protocol requirements.
+NCT04495322,DRUG,Placebo,Subjects will receive one single oral dose of placebo on day 1 following protocol requirements.
+NCT02657330,DRUG,SBP-101,"Subcutaneous drug, escalating dose cohorts"
+NCT03109730,DRUG,ABI-H0731,A novel HBV core protein allosteric modifier (CpAM) which is being developed as a potential therapeutic advance for CHB patients
+NCT03109730,DRUG,Placebo for ABI-H0731,Sugar pill manufactured to mimic the ABI-H0731 tablet
+NCT03109730,DRUG,Entecavir,An antiviral medication used in the treatment of hepatitis B virus infection
+NCT03109730,DRUG,Tenofovir Disoproxil Fumarate,An antiviral medication used in the treatment of hepatitis B virus infection
+NCT03109730,DRUG,Pegasys,Used to treat adults with chronic hepatitis B virus who show signs of liver damage
+NCT03651128,BIOLOGICAL,bb2121,bb2121
+NCT03651128,DRUG,Daratumumab,Daratumumab
+NCT03651128,DRUG,Pomalidomide,Pomalidomide
+NCT03651128,DRUG,Dexamethasone,Dexamethasone
+NCT03651128,DRUG,Bortezomib,Bortezomib
+NCT03651128,DRUG,Ixazomib,Ixazomib
+NCT03651128,DRUG,Lenalidomide,Lenalidomide
+NCT03651128,DRUG,Carfilzomib,Carfilzomib
+NCT03651128,DRUG,Elotuzumab,Elotuzumab
+NCT05451667,DRUG,YJ001 for Spray Use,YJ001 (active ingredient)
+NCT05451667,DRUG,Placebo of YJ001 for Spray Use,Hydroxypropyl Methylcellulose
+NCT04596007,DRUG,HEC83518 tablets,Each dose of HEC83518 and placebo will be administered with approximately 240 mL of water in the morning after fasting for at least 10 hours overnight.
+NCT04596007,DRUG,Placebo,placebo
+NCT06019507,BIOLOGICAL,TCD601,Investigational Product
+NCT06019507,BIOLOGICAL,Cyclophosphamide,Conditioning Regimen
+NCT06019507,DRUG,TAC,Immunosuppression Therapy
+NCT06019507,DRUG,MMF,Immunosuppression Therapy
+NCT06019507,DRUG,Corticosteroids,Immunosuppression Therapy
+NCT04693507,DRUG,teverelix TFA 120 mg,Teverelix TFA 240 mg Day 0 and 120 mg every 6 weeks from week 6 to week 24
+NCT04693507,DRUG,teverelix TFA 180 mg,Teverelix TFA 360 mg Day 0 and 180 mg every 6 weeks from week 6 to week 24
+NCT06636071,BIOLOGICAL,setrusumab,A fully human sclerostin neutralizing monoclonal antibody (mAb) administered once a month (QM) via intravenous (IV) infusion
+NCT03828344,BIOLOGICAL,hUC-MSC suspension,Patients will be treated at dose of 0.75×10\^6 cells/kg of body weight (Cohort 1) or 1.5×10\^6 cells/kg of body weight (Cohort 2) via a single IV infusion using a blood transfusion kit.
+NCT03828344,BIOLOGICAL,Placebo,Placebo contains the same cell suspension as BX-U001 but without cells.
+NCT06685809,DRUG,FZ008-145 solution,Dose formulation- Oral solution
+NCT06685809,DRUG,FZ008-145 Tablet,Dose formulation- Oral tablet
+NCT06685809,DRUG,Placebo,Dose formulation- Matching doses
+NCT02779699,DRUG,AL2846,AL2846 p.o. qd
+NCT07133399,DRUG,vicadrostat / empagliflozin combination 1,vicadrostat / empagliflozin combination 1
+NCT07133399,DRUG,vicadrostat / empagliflozin 2,vicadrostat / empagliflozin 2
+NCT04999098,DRUG,Echinaforce Forte tablets,"Tincture of fresh Echinacea purpurea (L) MOENCH: Herba rec. T. aerial part DER = 1:12-13 (Drug to extraction solvent ratio) extraction solvent = ethanol 65.1 % (V/V) = 57.3 % (m/m)\* with an approx. dry plant equivalent of 32 mg per tablet Dry weight content in 1 tablet: 5.9 mg
+
+Echinacea purpurea: (L) MOENCH: Radix rec. root part DER = 1:11-12 (Drug to extraction solvent ratio) extraction solvent = ethanol 65.1 % (V/V) = 57.3 % (m/m)\* with an approx. dry plant equivalent of 1.8 mg per tablet Dry weight content in1 tablet: 0.3 mg
+
+the tablet contain additional excipients"
+NCT04999098,DRUG,Echinaforce Chewable tablets,"Tincture of fresh Echinacea purpurea (L) MOENCH: Herba rec. T. aerial part DER = 1:12-13 (Drug to extraction solvent ratio) extraction solvent = ethanol 65.1 % (V/V) = 57.3 % (m/m)\* with an approx. dry plant equivalent of 32 mg per tablet Dry weight content in 1 tablet: 5.9 mg
+
+Echinacea purpurea: (L) MOENCH: Radix rec. root part DER = 1:11-12 (Drug to extraction solvent ratio) extraction solvent = ethanol 65.1 % (V/V) = 57.3 % (m/m)\* with an approx. dry plant equivalent of 1.8 mg per tablet Dry weight content in1 tablet: 0.3 mg
+
+The tablets contain additional excipients"
+NCT04999098,DRUG,Echinaforce tincture,"Tincture of fresh Echinacea purpurea (L) MOENCH: Herba rec. T. aerial part DER = 1:12-13 (Drug to extraction solvent ratio) extraction solvent = ethanol 65.1 % (V/V) = 57.3 % (m/m)
+
+Echinacea purpurea: (L) MOENCH: Radix rec. root part DER = 1:11-12 (Drug to extraction solvent ratio) extraction solvent = ethanol 65.1 % (V/V) = 57.3 % (m/m)"
+NCT07422298,DRUG,BMS-986278,Specified dose on specified days
+NCT07422298,DRUG,Placebo,Specified dose on specified days
+NCT07422298,DRUG,Moxifloxacin,Specified dose on specified days
+NCT03331198,BIOLOGICAL,JCAR017 (lisocabtagene maraleucel),"Participants will undergo leukapheresis to isolate peripheral blood mononuclear cells (PBMCs) for the production of JCAR017. During JCAR017 production, participants may receive bridging anticancer therapy for disease control. Treatment will include lymphodepleting chemotherapy followed by one dose of JCAR017 administered by intravenous (IV) injection."
+NCT03331198,BIOLOGICAL,JCAR017 (lisocabtagene maraleucel) + ibrutinib,"Participants eligible for this cohort should be receiving ibrutinib at the time of screening. For participants who previously discontinued ibrutinib, ibrutinib will be started as soon as possible after eligibility is confirmed. Ibrutinib treatment will continue for up to 90 days after JCAR017 infusion (or longer for participants who are receiving benefit from ibrutinib). Participants will undergo leukapheresis to isolate peripheral blood mononuclear cells (PBMCs) for the production of JCAR017. During JCAR017 production, participants may receive bridging chemotherapy for disease control. Upon successful generation of JCAR017 product, participants will receive treatment with JCAR017 therapy. Each cycle will include lymphodepleting chemotherapy followed by one dose of JCAR017 administered by intravenous (IV) injection."
+NCT03331198,BIOLOGICAL,JCAR017 (lisocabtagene maraleucel) + venetoclax,"Participants will undergo leukapheresis to isolate peripheral blood mononuclear cells (PBMCs) for the production of JCAR017. During JCAR017 production, participants will receive venetoclax as bridging anticancer therapy on a weekly ramp up dosing schedule until stopping one day prior to lymphodepletion. Treatment will include lymphodepleting chemotherapy followed by one dose of JCAR017 administered by intravenous (IV) injection, and the day after infusion venetoclax will be re-initiated."
+NCT03310463,DRUG,ETX2514SUL,Single dose of up to 1000 mg ETX2514 and 1000 mg sulbactam given by concurrent 3-hr IV infusion
+NCT02663687,DRUG,Recombinant human C1 esterase inhibitor,Subjects will receive escalating doses I-IV as both IV and SC injections
+NCT02663687,DRUG,Placebo,Subjects will receive matching placebo
+NCT02663687,DRUG,SHP623,SHP623
+NCT02663687,DRUG,Placebo,Placebo
+NCT06153693,DRUG,Placebo,Placebo once daily (QD) for 12 weeks
+NCT06153693,DRUG,lorundrostat Dose 1,50 mg lorundrostat Dose 1 once daily (QD) for 12 weeks
+NCT06153693,DRUG,lorundrostat Dose 2,50 mg lorundrostat Dose 1 once daily (QD) for 6 weeks then 100 mg lorundrostat Dose 2 once daily (QD) for 6 weeks for subjects who meet prespecified criteria
+NCT06385821,BIOLOGICAL,Grippol Quadrivalent,"Solution for intramuscular and subcutaneous administration, 0.5 ml/dose. Children from 36 months to 5 years - in the upper third of the outer surface of the shoulder intramuscularly (in the deltoid muscle) at a dose of 0.5 ml once (Day 1). Children from 6 to 35 months - in the anterolateral surface of the thigh intramuscularly 0.25 ml twice with an interval of 3-4 weeks (Day 1, Day 25±3)."
+NCT06385821,BIOLOGICAL,Grippol Plus,"Suspension for intramuscular and subcutaneous administration, 0.5 ml/dose. Children from 36 months to 5 years - in the upper third of the outer surface of the shoulder intramuscularly (in the deltoid muscle) at a dose of 0.5 ml once (Day 1). Children from 6 to 35 months - in the anterolateral surface of the thigh intramuscularly, 0.25 ml twice with an interval of 3-4 weeks (Day 1, Day 25±3)."
+NCT06905314,DRUG,HRS-4029,HRS-4029
+NCT06905314,DRUG,Placebo,Placebo
+NCT02904304,DRUG,Desloratadine+Phenylephrine+Ibuprofen,"01 tablet, orally, every 12 hours."
+NCT02904304,DRUG,Placebo,"01 tablet, orally, every 12 hours."
+NCT03134352,DRUG,ZL-3101,"A brown ointment, 10g/tube, 0.4g herb/g ointment, Topical"
+NCT03134352,DRUG,Placebo,"A brown ointment, 10g/tube, 0.02 g herb/g ointment (5% of Fugan active ointment), Topical"
+NCT06970847,DRUG,64Cu-SAR-bisPSMA,"All Patients will receive a single administration, a bolus injection of 200MBq 64Cu-SAR-bisPSMA"
+NCT03989947,DRUG,Active BMN 111: Subcutaneous injection of recommended dose of BMN 111 based on weight-band dosing once daily.,Modified recombinant human C-type natriuretic peptide (subject to adjustment per protocol)
+NCT03048747,DRUG,Tolvaptan Oral Tablet,"Tolvaptan tablets at 7.5, 15, 30 (one tablet each), or 60 mg (two 30 mg tablets) will be orally administered once daily after breakfast for up to 30 days."
+NCT05541549,BIOLOGICAL,CE-VST01-JC,CE-VST01-JC at a dose of 1 × 10\^8 cells administered as an intravenous (IV) infusion every 28 days for 4 total infusions
+NCT02427958,DRUG,Leuprorelin,Suspension for injection.
+NCT02479555,DRUG,"Dexamethasone sodium phosphate injection, USP, 4 mg/mL","Post-balloon angioplasty revascularization, the unblinded Pharmacist will prepare a sterile 20 mL syringe (Luer locking) with 16 mL of investigational drug or placebo per assignment. The unblinded Pharmacist provides syringe to investigator. Syringe shall only be labeled with the study number, patient number, randomization number and ""Investigational Drug"".
+
+""Investigational Drug"" will be administered via Bullfrog Micro-Infusion Device."
+NCT04882878,OTHER,Placebo,Placebo will be administered intravenously.
+NCT04882878,DRUG,Nipocalimab,Nipocalimab dose 1 and dose 2 will be administered intravenously.
+NCT04882878,DRUG,Standard-of-care treatment,"Standard-of-care treatment including immunomodulators, antimalarial drugs and GCs will be administered orally."
+NCT05445778,DRUG,Mirvetuximab soravtansine plus Bevacizumab,Participants will receive MIRV 6.0 mg/kg adjusted ideal body weight (AIBW) plus Bevacizumab 15mg/kg every 3 weeks
+NCT05445778,DRUG,Bevacizumab,Participants will receive Bevacizumab 15mg/kg every 3 weeks
+NCT04704843,DRUG,Guselkumab,Guselkumab will be administered as IV infusion (induction dose) and SC injection.
+NCT04704843,DRUG,Placebo,Matching placebo to guselkumab will be administered as IV infusion (induction dose) and SC injection.
+NCT06386328,DRUG,"CKD-378, QD, PO","CKD-378, QD, PO"
+NCT07771465,DRUG,Danicamtiv,Danicamtiv will be administered twice daily for up to 5 years
+NCT05241067,DRUG,Normal Saline,Placebo (Dose: equal volume saline) + Standard of care
+NCT05241067,DRUG,Centhaquine,Centhaquine (Dose: 0.01 mg/kg) + Standard of care
+NCT06141200,DRUG,NW Roselle,NW Roselle is a powdered extract from the flowers of Hibiscus Sabdariffa (300mg) and the leaves of Olea europaea (200 mg).
+NCT06141200,DRUG,Captopril 25Mg Tab,Active Comparator
+NCT03604692,DRUG,axatilimab,axatilimab is a high affinity antibody targeting the colony stimulating factor 1 receptor (CSF-1R). CSF-1R signaling has been demonstrated in nonclinical studies to be the key regulatory pathway involved in the expansion and infiltration of donor derived macrophages that mediate the disease processes involved in cGVHD.
+NCT04718636,DRUG,Oral Contraceptive (Ortho Tri-Cyclen or its generic equivalent),Daily
+NCT04718636,DRUG,CC-99677,Daily
+NCT03448211,DRUG,Para-toluenesulfonamide Injection (PTS),Intratumoral injection
+NCT05151471,DRUG,MT-1186,Oral edaravone
+NCT05151471,DRUG,Placebo,Oral
+NCT03564509,DRUG,FE 999302 (1 μg) and follitropin delta,"Daily dose of 1 μg of FE 999302, a recombinant human chorionic gonadotropin (rhCG) solution for subcutaneous injection; individualized follitropin delta dose."
+NCT03564509,DRUG,FE 999302 (2 μg) and follitropin delta,"Daily dose of 2 μg of FE 999302, a rhCG solution for subcutaneous injection; individualized follitropin delta dose."
+NCT03564509,DRUG,FE 999302 (4 μg) and follitropin delta,"Daily dose of 4 μg of FE 999302, a rhCG solution for subcutaneous injection; individualized follitropin delta dose."
+NCT03564509,DRUG,FE 999302 (8 μg) and follitropin delta,"Daily dose of 8 μg of FE 999302, a rhCG solution for subcutaneous injection; individualized follitropin delta dose."
+NCT03564509,DRUG,FE 999302 (12 μg) and follitropin delta,"Daily dose of 12 μg of FE 999302, a rhCG solution for subcutaneous injection; individualized follitropin delta dose."
+NCT03564509,OTHER,Placebo and follitropin delta,Daily dose of placebo; individualized follitropin delta dose.
+NCT04211909,DRUG,SOF/VEL,400/100 mg FDC tablet orally once daily.
+NCT04211909,DRUG,SOF/VEL/VOX,400/100/100 mg FDC tablet orally once daily.
+NCT04959032,DRUG,Lumateperone 42 mg,"Lumateperone 42 mg capsules administered orally, once daily."
+NCT04959032,DRUG,Placebo,"Matching capsules administered orally, once daily."
+NCT03795298,DEVICE,WATCHMAN FLX Implant,Left atrial appendage closure with the WATCHMAN FLX device
+NCT03795298,DRUG,Market-approved OAC,Used per IFU for atrial fibrillation stroke prevention for the duration of the trial.
+NCT07150663,DRUG,Nano-crystalline Megestrol Acetate Oral Suspension,"Nanocrystalline Megestrol Acetate Oral Suspension Nanocrystalline Megestrol Acetate Oral Suspension (125 mg/mL) was administered to the study group at 5 mL orally once daily (equivalent to 625 mg/day) until disease progression or completion of 8 weeks (maximum treatment duration: 8 weeks), whichever occurred first."
+NCT07150663,OTHER,Standard Therapy,Standard Therapy
+NCT06038916,DRUG,STSA-1002 Injection Placebo,Intravenous infusion
+NCT06038916,DRUG,STSA-1002 Injection,Intravenous infusion
+NCT03292484,BIOLOGICAL,AR101,AR101
+NCT06769633,DRUG,Givinostat Hydrochloride,Cohort 1 - from 4 to 6 years old
+NCT06769633,DRUG,Givinostat Hydrochloride - Cohort 2,Cohort 2 - from 2 to 4 years old
+NCT04983238,DRUG,BYON5667 & SYD985,"Ocular administration: BYON5667, Intravenous administration: SYD985"
+NCT04983238,DRUG,Placebo & SYD985,"Ocular administration: Placebo, Intravenous administration: SYD985"
+NCT03855358,DRUG,TQB2450 Injection and Anlotinib Hydrochioride Capsules,TQB2450 1200mg intravenously (IV) every-3-weeks (Q3W) and Anlotinib QD po and it should be continued until disease progression or intolerable toxicity or patients withdrawal of consent
+NCT03871348,DRUG,SAR441000,"Pharmaceutical form: concentrate for solution for injection
+
+Route of administration: intratumoral"
+NCT03871348,DRUG,Cemiplimab REGN2810,"Pharmaceutical form: solution for injection
+
+Route of administration: intravenous"
+NCT06080048,DRUG,SOR102,SOR102 capsules
+NCT06080048,DRUG,Placebo,Matching placebo capsules
+NCT06128148,DRUG,JYP0322 50 mg qd,"JYP0322 is administered orally at a dose of 50 mg qd for a specified duration until unacceptable toxicity, disease progression, or study completion."
+NCT06128148,DRUG,JYP0322 100 mg qd,"JYP0322 is administered orally at a dose of 100 mg qd for a specified duration until unacceptable toxicity, disease progression, or study completion."
+NCT06128148,DRUG,JYP0322 200 mg qd,"JYP0322 is administered orally at a dose of 200 mg qd for a specified duration until unacceptable toxicity, disease progression, or study completion."
+NCT06128148,DRUG,JYP0322 100 mg bid,"JYP0322 is administered orally at a dose of 100 mg bid for a specified duration until unacceptable toxicity, disease progression, or study completion."
+NCT06128148,DRUG,JYP0322 150 mg bid,"JYP0322 is administered orally at a dose of 150 mg bid for a specified duration until unacceptable toxicity, disease progression, or study completion."
+NCT06128148,DRUG,JYP0322 200 mg bid,"JYP0322 is administered orally at a dose of 200 mg bid for a specified duration until unacceptable toxicity, disease progression, or study completion."
+NCT06128148,DRUG,JYP0322 150mg tid,"JYP0322 is administered orally at a dose of 150 mg tid for a specified duration until unacceptable toxicity, disease progression, or study completion."
+NCT05539248,DRUG,CAN106 20 mg/kg,"Induction and maintenance dosing for cohort 1:
+
+12 mg/kg on Day 1, 16 mg/kg on Day 8, and 20 mg/kg on Day 15 and every 4 weeks thereafter;"
+NCT05539248,DRUG,CAN106 40 mg/kg,"Induction and maintenance dosing for cohort 2:
+
+30 mg/kg on Day 1, and 40mg/kg on Day 8 and every 4 weeks thereafter；"
+NCT05539248,DRUG,CAN106 80 mg/kg,"Induction and maintenance dosing for cohort 3:
+
+60 mg/kg on day 1, and 80 mg/kg on day 15 and every 8 weeks thereafter."
+NCT05720767,DRUG,HMPL-523,HMPL-523 is a selective small-molecule SYK inhibitor.
+NCT05720767,DRUG,Itraconazole,Itraconazole is an FDA approved synthetic triazole antifungal agent
+NCT05720767,DRUG,Rifampin,Rifampin is an FDA approved semisynthetic antiobiotic derivative indicated in the treatment of both tuberculosis and meningococcal carrier state
+NCT05116007,DRUG,AK112,IV infusion
+NCT05116007,DRUG,Etoposide,"Etoposide intravenous infusion was administered at a dose of 100 mg/m\^2 on Days 1, 2, and 3 of each 21-day cycle during the induction phase (Cycles 1-4)."
+NCT05116007,DRUG,Carboplatin,Carboplatin intravenous infusion to achieve an initial target AUC of 5 mg/mL/min was administered on Day 1 of each 21-day cycle during the induction phase (Cycles 1-4)
+NCT03656692,DRUG,Acthar Gel,Acthar gel for subcutaneous injection 80 units per mL (40 units per 0.5 mL)
+NCT02344992,DRUG,BioChaperone insulin lispro,Single dose of 0.2 U/kg body weight injected subcutaneously
+NCT02344992,DRUG,Humalog®,Single dose of 0.2 U/kg body weight injected subcutaneously
+NCT04804111,DRUG,arm 0,placebo group
+NCT04804111,DRUG,arm 1,3 mg of the URC102 group
+NCT04804111,DRUG,arm 2,6 mg of the URC102 group
+NCT04804111,DRUG,arm 3,9 mg of the URC102 group
+NCT04804111,DRUG,arm 4,Febuxostat 80 mg
+NCT06843044,DRUG,Ranquilon,1 mg tablets
+NCT06843044,DRUG,Afobazole,10 mg tablets
+NCT07424144,DRUG,Itepekimab (SAR440340),Pharmaceutical form: Solution for injection in prefilled syringe. Route of administration: Subcutaneous
+NCT07424144,DRUG,Placebo,Pharmaceutical form: Solution for injection in prefilled syringe. Route of administration: Subcutaneous
+NCT04906109,DRUG,Vemlidy Tab,1T
+NCT04906109,DRUG,DA-2803 Tab,1T
+NCT05766709,DRUG,NNC0194-0499,NNC0194-0499 will be administered subcutaneously once weekly.
+NCT05766709,DRUG,Semaglutide,Semaglutide will be administered subcutaneously once weekly.
+NCT05766709,DRUG,NNC0194-0499/Semaglutide A (40/3.20 mg/mL),NNC0194-0499/Semaglutide A (40/3.20 mg/mL) co-formulation product will be administered subcutaneously once weekly.
+NCT05766709,DRUG,NNC0194-0499/Semaglutide A (40/0.33mg/mL),NNC0194-0499/Semaglutide A (40/0.33mg/mL) will be administered subcutaneously once weekly.
+NCT03311009,DRUG,GLPG1972 cohort 1,GLPG1972 dose 1 provided as oral tablets q.d.
+NCT03311009,DRUG,GLPG1972 cohort 2,GLPG1972 dose 2 provided as oral tablets q.d.
+NCT03311009,DRUG,GLPG1972 cohort 3,GLPG1972 dose 3 provided as oral tablets q.d.
+NCT03311009,DRUG,Placebo,Matching placebo provided as oral tablets q.d.
+NCT03966898,DRUG,SHR6390 Tablets,SHR6390 Tablets
+NCT03966898,DRUG,Placebo Tablets,Placebo Tablets
+NCT03966898,DRUG,Letrozole or Anastrozole Tablets,Letrozole or Anastrozole Tablets
+NCT02566187,DRUG,Fimasartan/Atorvastatin Combination Tablet,
+NCT02566187,DRUG,Fimasartan,
+NCT02566187,DRUG,Atorvastatin,
+NCT03733587,DRUG,GX-I7,GX-I7 25mg/ml/vial
+NCT03733587,DRUG,Cyclophosphamide,Cyclophosphamide 500mg/vial
+NCT04289987,BIOLOGICAL,CVI-HBV-002,Investigational Product
+NCT04289987,BIOLOGICAL,Normal Saline(placebo),Investigational Product
+NCT02451514,BIOLOGICAL,MenABCWY+OMV vaccine,"Intramuscular injection of a single dose at Day 1 to subjects in the MenABCWY+OMV Group or as a 2 doses at Day 1 and Day 31, one month apart, to subjects in the MenACWY and Naive Groups."
+NCT03945604,DRUG,SHR-1210 + Apatinib +Fluzoparib,"SHR-1210 will be administered as an intravenous infusion Apatinib tablets will be given orally Fluzoparib capsule will be given orally 28 days per cycle, until disease progression or unacceptable toxicity."
+NCT06194552,DRUG,NTRX-07,Investigational orally administered CB2 agonist
+NCT06194552,DRUG,Placebo,Matched placebo administered orally
+NCT04881747,DRUG,Lasmiditan,Administered orally.
+NCT05141747,DRUG,MRG002,Administrated intravenously
+NCT02605447,DRUG,3 months of dual antiplatelet therapy (DAPT),"3 months of P2Y12 inhibitor (clopidogrel, prasugrel or ticagrelor) plus 15-months of aspirin"
+NCT02605447,DEVICE,SYNERGY Stent System,SYNERGY Everolimus-Eluting Platinum Chromium Coronary Stent System
+NCT04155047,COMBINATION_PRODUCT,Glyocopyrrolate Inhalation Solution administered by Magnair,"glycopyrrolate Inhalation Solution 25mcg, single dose"
+NCT04155047,DRUG,Placebo administered by Magnair,Placebo Inhalation Solution
+NCT07583849,DRUG,HSK39004 Dry Powder Inhaler Simulant,"HSK39004 Dry Powder Inhaler Simulants, administered via oral inhalation, 1 tablet each time, twice daily"
+NCT07583849,DRUG,HSK39004 Dry Powder Inhaler-0.75mg,"HSK39004 Dry Powder Inhaler: Inhale through the mouth, 0.75mg each time, twice a day"
+NCT05547438,DRUG,NTS-104 TRIS,"Subjects will receive a single IV infusion of either 0.8, 4, 8, or 16 mg/mL NTS-104 depending on the Cohort number"
+NCT05547438,DRUG,Placebo,Subjects will be administered an IV infusion of placebo and the same duration and volume as the subjects administered NTS-104 TRIS in the cohort
+NCT04369430,DRUG,AKST4290,Oral AKST4290
+NCT04369430,DRUG,Placebo,Oral Placebo
+NCT05666128,DRUG,HD-6277,HD-6277 100mg
+NCT05666128,DRUG,HD-6277,HD-6277 50mg
+NCT05666128,DRUG,Placebo,Placebo
+NCT02448628,DRUG,CS-3150,
+NCT05339100,DRUG,Anifrolumab,Participants will receive SC doses anifrolumab via AI or APFS.
+NCT05339100,DEVICE,Autoinjector,Autoinjector will be use to administer single SC dose of anifrolumab.
+NCT05339100,DEVICE,Accessorized Pre-Filled Syringe,Accessorized Pre-filled syringe will be use to administer single SC dose of anifrolumab.
+NCT05468307,BIOLOGICAL,Membrane Bound Cytokine Modified TIL,Adoptive transfer of 2x10\^8-1x10\^10 autologous TIL engineered with membrane-binding cytokine to patients i.v. in 30-120 minutes.
+NCT07325292,DRUG,Frexalimab,Pharmaceutical form:Solution for injection-Route of administration:SC injection
+NCT07325292,DRUG,Frexalimab,Pharmaceutical form:Concentrate for solution for infusion-Route of administration:IV infusion
+NCT07325292,DRUG,MRI contrast-enhancing preparations,Route of administration:IV injection
+NCT05047692,BIOLOGICAL,AdCLD-CoV19-1,Replication deficient adenoviral vector based COVID-19 prevention vaccine containing recombinant gene of SARS-CoV-2 spike protein
+NCT07007936,DRUG,SSS17 Capsule (6 Dose Levels),Arm1 ： This dose-ranging study evaluates 6 dose levels of oral SSS17 capsules under two regimens: Once weekly、 Twice weekly
+NCT07007936,DRUG,Placebo Drug,"Arm2：placebo The placebo intervention was matched with the six dose levels of SSS17, with each dose level assigning participants in a ratio of 4:1 (SSS17 to placebo)."
+NCT06909136,DRUG,"Ruxolitinib phosphate tablet（Jakavi,NOVARTIS,9104733)","5-20mg BID (dosage per investigator judgement,JAKi intolerable pts will receive recuded dose of RUX(≥ 5mg BID),and suboptimal JAKi response pts will receive RUX of 15-20 mg BID）"
+NCT04310592,BIOLOGICAL,CYNK-001,CYNK-001 is an allogeneic off the shelf cell therapy enriched for CD56+/CD3- NK cells expanded from human placental CD34+ cells.
+NCT04353492,BIOLOGICAL,Ofatumumab,"Subjects will receive ofatumumab injections in an autoinjector (AI) for subcutaneous administration containing 20 mg ofatumumab (50 mg/ml, 0.4 ml content)"
+NCT03921411,BIOLOGICAL,Nemolizumab,"Participants received subcutaneous (SC) injection of 30 milligram (mg) of Nemolizumab every 4 weeks (Q4W) over a 16-week treatment period, with a loading dose of 60 mg on Day 1."
+NCT05259371,DRUG,Transcutaneous Pulsed Electrical Stimulation (Device: Nu Eyne M02),Pulse Electrical Stimulation Patients wear our clinical trial device 30mins once a day for 16weeks.
+NCT02709187,DRUG,DP-R208,Investigational product is prescribed to all of randomized subjects
+NCT02709187,DRUG,Candesartan cilexetil,Investigational product is prescribed to all of randomized subjects
+NCT02709187,DRUG,Rosuvastatin,Investigational product is prescribed to all of randomized subjects
+NCT02973893,BIOLOGICAL,Placebo,Placebo
+NCT02973893,BIOLOGICAL,VF001-DP LD,VF001-DP contains parts of normal vitronectin and Insulin-like growth factor 1 (IGF-I) combined in a single protein.
+NCT02973893,BIOLOGICAL,VF001-DP HD,VF001-DP contains parts of normal vitronectin and Insulin-like growth factor 1 (IGF-I) combined in a single protein.
+NCT05364021,DRUG,LP352,"LP352 administered three times daily, orally or through G-tube"
+NCT05364021,DRUG,Placebo,"Matching placebo for LP352 administered three times daily, orally or through G-tube"
+NCT04950114,DRUG,GFB-887,"GFB-887 is a potent, small molecule inhibitor of TRPC5."
+NCT03121716,BIOLOGICAL,SHR-1210,SHR-1210 is a humanized anti-PD1 IgG4 monoclonal antibody.
+NCT03121716,DRUG,Gemcitabine,gemcitabine
+NCT03121716,DRUG,cis-platinum,cis-platinum
+NCT07779616,DRUG,PTC844,PTC844 will be administered per schedule specified in the arm description.
+NCT07779616,DRUG,Placebo,Placebo matching to PTC844 will be administered per schedule specified in the arm description.
+NCT05033704,DRUG,5% human plasma protein fraction (PPF),"Infusion of 5% human plasma protein fraction PPF. PPF 5% ""Octapharma 5 %"" is a colloid solution containing (47.6-52.5% proteins, of which 45.6-52.5 gm/L albumin and 142.5-157.5 mmol/L sodium)."
+NCT05651152,DRUG,JZP441,Nighttime oral dose
+NCT05651152,DRUG,Placebo,Nighttime oral dose
+NCT04604652,DRUG,HTD1801 (BUDCA),HTD1801 (BUDCA) 250 mg tablets. Dose 1000 mg twice daily with food for 12 weeks.
+NCT05774184,BIOLOGICAL,barzolvolimab,subcutaneous administration
+NCT05774184,DRUG,Matching Placebo,subcutaneous administration
+NCT06854952,DRUG,TERN-601,Investigational drug
+NCT06854952,OTHER,Matching Placebo,Matching placebo

@@ -1,0 +1,12 @@
+{
+  "source": "ClinicalTrials.gov API v2",
+  "endpoint": "https://clinicaltrials.gov/api/v2/studies",
+  "extract_timestamp": "2026-08-26T23:54:40.652302+01:00",
+  "query": "AREA[StudyType]INTERVENTIONAL AND AREA[LeadSponsorClass]INDUSTRY AND (AREA[InterventionType]DRUG OR AREA[InterventionType]BIOLOGICAL) AND AREA[StartDate]RANGE[2015-01-01,MAX]",
+  "page_size": 50,
+  "pages_downloaded": 4,
+  "records_downloaded": 200,
+  "development_limit": 200,
+  "raw_file": "clinicaltrials_project_dev_200.json",
+  "sha256": "ab9b8592a9e802ea4779eb93e64416c91e86c983f1f84bc3fe6d9cce56d87998"
+}
