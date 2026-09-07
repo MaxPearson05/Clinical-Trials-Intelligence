@@ -26,7 +26,7 @@ The [original manifest](../data/development/extract-manifest.json) records **202
 
 The manifest names a raw JSON absent from the supplied ZIP. A source NDJSON was present, but cannot establish the byte hash of that missing JSON. No claim is made that the original raw-file hash has been verified. Large/raw nested content is omitted; it is unnecessary for viewing the dashboard.
 
-**Known date issue, preserved for review:** the ingestion notebook parses dates twice, first without `format="mixed"`. Values coerced to missing in the first pass cannot be recovered in the second. Its output dates should not be treated as certified. Correcting this requires reviewing the original raw strings; it was not silently changed. This does not alter the AACT-derived dashboard exports.
+**Date handling:** Dates are parsed once using `format="mixed"`. The earlier duplicate conversion has been removed. The revised notebook has not yet been rerun, so validation against the original input dates remains pending.
 
 To deliberately rerun the optional API route, first agree the date-handling correction; use pandas, requests and Jupyter/ipykernel, create `data/raw/` and `data/processed/`, and launch from `notebooks/` so relative paths resolve. Execution makes live requests and can return a different sample. Outputs/counts were cleared in the published notebooks; analytical cells were preserved and no new API execution is claimed.
 
