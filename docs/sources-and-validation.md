@@ -28,7 +28,7 @@ The manifest names a raw JSON absent from the supplied ZIP. A source NDJSON was 
 
 **Date handling:** Dates are parsed once using `format="mixed"`. The earlier duplicate conversion has been removed. The revised notebook has not yet been rerun, so validation against the original input dates remains pending.
 
-To deliberately rerun the optional API route, first agree the date-handling correction; use pandas, requests and Jupyter/ipykernel, create `data/raw/` and `data/processed/`, and launch from `notebooks/` so relative paths resolve. Execution makes live requests and can return a different sample. Outputs/counts were cleared in the published notebooks; analytical cells were preserved and no new API execution is claimed.
+To rerun the optional API workflow, first validate the revised date handling against the original input dates. Install pandas, requests and Jupyter/ipykernel, create `data/raw/` and `data/processed/`, and launch from `notebooks/` so relative paths resolve. Execution makes live requests and may return a different sample. Notebook outputs and execution counts were cleared; the duplicate date-conversion cell was removed. The revised notebook has not been rerun.
 
 ## Supporting BigQuery checks
 
