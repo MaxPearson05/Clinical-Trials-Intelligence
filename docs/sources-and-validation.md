@@ -28,7 +28,11 @@ The original raw JSON named in the sample manifest is not included, so its recor
 
 **Date handling:** The notebook parses dates once using `format="mixed"`. Validation of the revised parsing against the original raw dates remains outstanding. The revised notebook has not yet been rerun.
 
+<<<<<<< HEAD
 To generate a new API sample, install pandas, requests and Jupyter/ipykernel, create `data/raw/`, and run the ingestion notebook from `notebooks/` so relative paths resolve. Execution retrieves live records and may return a different sample. Regenerated CSVs are written to `data/processed/`; `data/development/` contains the archived sample. A new extraction does not reproduce or validate the missing historical raw input.
+=======
+To rerun the optional API workflow, first validate the revised date handling against the original input dates. Install pandas, requests and Jupyter/ipykernel, create `data/raw/` and `data/processed/`, and launch from `notebooks/` so relative paths resolve. Execution makes live requests and may return a different sample. Notebook outputs and execution counts were cleared; the duplicate date-conversion cell was removed. The revised notebook has not been rerun.
+>>>>>>> 1b0fd883153b8a335ded5f730728d0074e3fc63d
 
 ## Supporting BigQuery checks
 
