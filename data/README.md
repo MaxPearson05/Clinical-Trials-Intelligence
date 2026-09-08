@@ -1,6 +1,6 @@
 # Supporting data
 
-These are the supplied final AACT-derived **study-level and trial-country exports**, not patient-level data. They are retained byte-for-byte to support offline inspection and preserve the PBIX source schema. No large raw AACT snapshot or participant records are included. Final extraction date: unconfirmed; see [methodology](../docs/methodology.md).
+These AACT-derived **study-level and trial-country exports** support offline inspection of the dashboard dataset. They contain public trial records, not patient-level data. The final AACT snapshot identifier and extraction timestamp were not recorded; see [methodology](../docs/methodology.md) for reproducibility limits.
 
 | File | Grain | Rows |
 | --- | --- | ---: |
@@ -28,4 +28,4 @@ The bridge contains `nct_id`, `phase`, `overall_status`, `start_year`, `country_
 
 Both files are UTF-8 CSV. Read booleans explicitly, preserve `NA` as text, and treat empty numeric/date fields as missing. In pandas use `keep_default_na=False` before converting numeric/date columns. These exports cannot independently prove cohort membership against omitted source tables.
 
-Source acknowledgement: [Aggregate Analysis of ClinicalTrials.gov (AACT), Clinical Trials Transformation Initiative (CTTI)](https://aact.ctti-clinicaltrials.org/), using public ClinicalTrials.gov records. AACT reference page accessed for packaging on 7 September 2026; this is not the extraction date. No additional data licence or ownership claim is asserted by this packaging.
+Source acknowledgement: [Aggregate Analysis of ClinicalTrials.gov (AACT), Clinical Trials Transformation Initiative (CTTI)](https://aact.ctti-clinicaltrials.org/), using public ClinicalTrials.gov records.

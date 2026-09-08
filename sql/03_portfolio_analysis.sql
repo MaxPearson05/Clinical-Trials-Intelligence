@@ -1,11 +1,11 @@
--- Clinical-trials stakeholder research: 12 original queries.
--- Numerical comments record the earlier SQL run, not the final PBIX refresh.
--- See docs/research.md for scope differences and current dashboard findings.
--- No query calculations or cohort filters were changed during packaging.
+-- Clinical Trials Intelligence: 12 analytical queries.
+-- Recorded outputs are from an earlier SQL run and may differ from the dashboard.
+-- See docs/research.md for query scopes and final-export findings.
+-- Historical results and dashboard results use different source stages and filters.
 /*
-PROJECT: Clinical Trial Portfolio & Delivery Intelligence
+PROJECT: Clinical Trials Intelligence
 
-STAKEHOLDER:
+INTENDED AUDIENCE:
 UK-focused pharmaceutical / biotechnology portfolio strategy
 and clinical operations teams.
 
@@ -54,9 +54,9 @@ Business question:
 Which development stages show the greatest historical discontinuation,
 and what factors appear to contribute to those outcomes?
 
-Query 9  - Discontinuation risk by phase
+Query 9  - Recorded discontinuation by phase
 Query 10 - Raw reported stop reasons
-Query 11 - Categorised discontinuation reasons / hypothesis test
+Query 11 - Keyword categorisation of reported stop reasons
 
 
 5. REPORTING GOVERNANCE
@@ -159,7 +159,7 @@ FROM annual_activity
 ORDER BY start_year;
 
 -- Result / purpose:
--- Measures annual trial-start activity for the locked clinical-trials cohort.
+-- Measures annual trial-start activity for the analytical cohort.
 -- LAG compares each year's trial count with the previous year and calculates
 -- both absolute and percentage year-on-year change.
 -- Future planned start dates are excluded from the historical trend.
@@ -1208,7 +1208,7 @@ ORDER BY
 -- trial location; recruitment, cost, regulation, therapeutic capability
 -- and operational quality require additional evidence.
 
--- Query 9: Trial discontinuation risk by development phase
+-- Query 9: Recorded discontinuation by development phase
 -- Business question:
 -- Which development phases show the highest historical rate of
 -- terminated or withdrawn trials, and where should portfolio teams
@@ -1632,14 +1632,14 @@ ORDER BY
 -- group rather than assuming they were commercially motivated.
 --
 -- Business use:
--- Tests whether elevated discontinuation around Phase 2 and combined-phase
--- development is predominantly associated with clinical evidence,
--- recruitment constraints, explicit strategic/business decisions or other
--- operational factors.
+-- Summarises reported stop-reason categories around Phase 2 and
+-- combined-phase development, including clinical evidence, recruitment,
+-- explicit business decisions and operational factors.
+-- These are descriptive category counts, not a statistical hypothesis test.
 --
--- This analysis can indicate where portfolio risk controls should focus,
--- but registry stop reasons are self-reported and category assignment is
--- based on keyword rules rather than independently verified root causes.
+-- Categories use ordered keyword rules and may misclassify ambiguous text.
+-- Registry stop reasons are self-reported; the categories do not establish
+-- independently verified causes of discontinuation.
 
 -- Analytical finding:
 -- Discontinuation around the Phase 2 / Phase 3 transition appears

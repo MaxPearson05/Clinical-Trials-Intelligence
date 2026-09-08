@@ -1,15 +1,18 @@
+-- Recorded outputs below are from an earlier source run.
+-- The dashboard CSV export contains 46,955 trials; see docs/methodology.md.
+
 -- Query 1: Count validation
 
 SELECT COUNT(*)
 FROM ctgov.studies;
 
 -- Count = 600,377
--- Plan is to apply our project contract - > interventional, industry-led, drug/biological, start date>=2015 
--- This will give us our actual project cohort
--- Doing this by reproducing yesterdays API cohort definition in sql
+-- Apply the same cohort criteria used in the API sample:
+-- interventional studies with an industry lead sponsor, a DRUG or
+-- BIOLOGICAL intervention, and a start date on or after 2015-01-01.
 
--- Query 2: Count studies matching the locked project cohort
--- Grain: one distinct clinical study/ nct_id
+-- Query 2: Count studies matching the analytical cohort
+-- Grain: one distinct clinical trial per nct_id
 
 select 
  COUNT(distinct s.nct_id) as project_cohort_count
@@ -33,10 +36,10 @@ where s.study_type = 'INTERVENTIONAL'
 -- AACT project cohort count: 46,905
 -- ClinicalTrials.gov API count from 26 Aug 2026: 46,911
 -- Difference: 6 studies
--- Small difference retained and documented because the API is live
--- while AACT represents a dated relational registry snapshot.
+-- Source timing may explain the difference, but the historical ID sets
+-- are unavailable for record-level reconciliation.
  
- -- Query 3: Demonstrate row multiplication after joing child tables
+ -- Query 3: Demonstrate row multiplication after joining child tables
  -- Compare total joined rows with unique clinical trials
  
 select 
@@ -65,7 +68,7 @@ where s.study_type = 'INTERVENTIONAL'
 -- Therefore COUNT(*) would overstate the number of clinical trials.
 -- COUNT(DISTINCT nct_id) preserves the intended one-study grain.
 
--- Query 4: Profile the locked project cohort
+-- Query 4: Profile the analytical cohort
 -- Grain: one row per unique clinical trial / nct_id
 
 WITH project_cohort AS(

@@ -1,6 +1,6 @@
-"""Offline packaging QA; standard library only. Reads exports without modifying them.
+"""Validate the archived CSV exports using the Python standard library.
 
-These checks validate the supplied extracts, not the omitted AACT source or PBIX.
+Checks export consistency without modifying files; excludes the live AACT source and PBIX.
 The observed eligibility cutoff is diagnostic, not an asserted extraction date.
 """
 from collections import Counter, defaultdict
@@ -113,7 +113,7 @@ def main():
     for countries in named_countries.values():
         country_counts.update(countries)
     result = {
-        'scope': 'New offline packaging verification; not original-project QA or source reconstruction',
+        'scope': 'Offline validation of archived CSV exports; excludes source reconstruction and PBIX execution',
         'metrics': metrics,
         'zero_expected_checks': checks,
         'all_zero_expected_checks_pass': not any(checks.values()),

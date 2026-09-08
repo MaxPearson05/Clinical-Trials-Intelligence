@@ -4,7 +4,7 @@
 
 The [fact query](../sql/02_curated_views.sql) selects `INTERVENTIONAL` studies starting on/after `2015-01-01`, with an `INDUSTRY` lead sponsor and at least one `DRUG` or `BIOLOGICAL` intervention. Recorded conditions are not an additional inclusion predicate. Sponsor, country and facility records are aggregated before joining; `EXISTS` avoids multiplying trials during cohort selection.
 
-`FactTrials` contains **46,955 unique trials**. The [country query](../sql/02_curated_views.sql) produces **146,859 trial-country rows**, linked one-to-many by `nct_id`. Countries marked removed are excluded (`removed = FALSE OR IS NULL`). Confirm relationship filter direction in Power BI; it was not interactively tested here.
+`FactTrials` contains **46,955 unique trials**. The [country query](../sql/02_curated_views.sql) produces **146,859 trial-country rows**, linked one-to-many by `nct_id`. Countries marked removed are excluded (`removed = FALSE OR IS NULL`). Relationship filter direction and interactive filtering remain to be verified in Power BI.
 
 ## Metric definitions
 
@@ -28,7 +28,7 @@ The existing discontinuation label means **terminated share among final-status t
 
 ## Findings and QA
 
-The final CSVs were checked offline during repository review on **7 September 2026**. These are additional checks, separate from the original project's documented SQL grain/foreign-key checks and author-reported Power BI checks. The [verification script](../scripts/verify_exports.py) reproduces the current CSV checks and findings without modifying data.
+The [verification script](../scripts/verify_exports.py) checks the archived CSV exports without modifying them. It validates identifier uniqueness, bridge relationships, derived fields and headline metrics. These checks are separate from the historical SQL checks and do not test the live AACT source or Power BI model.
 
 - All ten headline figures reconcile. No duplicate/blank fact IDs, duplicate trial-country pairs or orphan bridge IDs were found. UK flags and nonblank country counts match the bridge.
 - Results-date flags, start years, non-negative duration derivation and observed maturity rules agree across all rows. No negative exported enrollment, site, country or duration values were found.
@@ -36,11 +36,11 @@ The final CSVs were checked offline during repository review on **7 September 20
 - One blank country row belongs to `NCT07221149`, alongside 20 named countries. It is retained and does not alter UK or known-geography totals. Exclude blank country categories in geographic displays.
 - UK trend denominators are **579 / 3,283** in 2015 and **514 / 4,003** in 2025. Eligible results coverage is **1,782 / 9,815** in Phase 1 and **3,252 / 4,559** in Phase 3. The gap is 53.2 percentage points using unrounded rates. Full-cohort median enrollment/sites are 36/1 and 312/24 respectively.
 
-No Excel validation or completed independent BigQuery reconciliation is claimed. The final CSVs omit source study-type/intervention details, so these checks cannot independently re-establish all cohort predicates. Static report inspection confirms three pages and historical-chart year exclusions; it does not test interactions or refresh.
+The final CSVs omit source study-type/intervention details, so the export checks cannot independently re-establish every cohort predicate. Static report inspection confirms three pages and historical-chart year exclusions; it does not test interactions or refresh. Full-cohort BigQuery reconciliation has not been completed.
 
 ## Source version and limitations
 
-The final AACT snapshot and extraction timestamp are missing. Earlier project evidence records **46,911 live API matches** and **46,905 AACT trials**; the final exports contain **46,955**. These remain distinct stages, with differences of 44 and 50 respectively. Timing was suggested in the original notes, but missing historical ID sets/manifests prevent a record-level reconciliation. Earlier dates must not be presented as the final extraction date.
+The final AACT snapshot identifier and extraction timestamp were not recorded. Earlier evidence contains **46,911 live API matches** and **46,905 AACT trials**; the dashboard exports contain **46,955 trials**. The missing historical ID sets prevent record-level reconciliation between these stages. The API sample timestamp is not the final dashboard extraction date.
 
 Registry data is self-reported, mutable and may include estimated dates. Full-cohort starts range from 2015 to 2050; historical charts show 2015–2025. Observations are descriptive, not causal. Public results visibility does not establish legal compliance. Small phase groups can produce unstable rates.
 
@@ -53,4 +53,4 @@ Full [source access, research execution order and original validation evidence](
 3. **Power BI:** inspect Power Query Source/Advanced Editor and Data source settings for paths, server details or private configuration. Repoint CSV sources in a working copy where appropriate, preserving table names and transformations. A PostgreSQL source cannot be assumed interchangeable without review. Check date/numeric/boolean types and preserve literal `NA`.
 4. **Validate locally:** confirm one-to-many cardinality, filter direction, documented DAX, country/phase cross-filtering, page navigation, map loading, Top 8 totals and year filters. The supplied year charts exclude specific future-year values; review that list after refresh. Review discontinuation/duration labels before changing any calculation.
 
-SQL query bodies, CSVs, PBIX and screenshots were retained without analytical changes; the optional BigQuery destination identifier was anonymised. Readable text/code/data were checked for common credential patterns and private paths; no matches were found. The compressed PBIX model was not decoded, so inspect its connection settings before publication. No extraction, database rebuild, deployment or publication was performed during this review.
+Power BI connection settings, refresh and interactions remain to be checked locally. Offline CSV validation does not inspect the embedded model or connection configuration.

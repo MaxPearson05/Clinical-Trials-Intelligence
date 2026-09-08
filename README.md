@@ -10,9 +10,9 @@ A three-page dashboard analysing **46,955 industry-led interventional drug and b
 
 ## What I built and why
 
-I investigated 12 stakeholder questions in SQL, prepared trial-level data in PostgreSQL, modelled multinational participation with a separate country bridge, and created DAX measures and three Power BI pages. The aim was to turn a complex registry into a clear view of portfolio scale and delivery characteristics without double-counting trials.
+I investigated 12 analytical questions in SQL, prepared trial-level data in PostgreSQL, modelled multinational participation with a separate country bridge, and created DAX measures and three Power BI pages. The aim was to turn a complex registry into a clear view of portfolio scale and delivery characteristics without double-counting trials.
 
-| Dashboard page | Stakeholder question | Intended use |
+| Dashboard page | Analytical question | Intended use |
 | --- | --- | --- |
 | Trial Overview | Where is activity concentrated by phase, status, year and country? | Establish a portfolio benchmark and identify areas for further investigation. |
 | Portfolio & Delivery Insights | How do enrollment, site footprint and recorded timelines differ by phase? | Inform recruitment feasibility and site-network planning discussions. |
@@ -49,6 +49,6 @@ AACT → SQL profiling, research and curated exports → trial/country model →
 - Download the PBIX and open it in Power BI Desktop, or use the screenshots above. Source paths may need updating before refresh.
 - Run `python scripts/verify_exports.py` to check the supplied CSVs offline; no API extraction or database rebuild is required.
 
-Registry records may be incomplete or planned. Recorded termination is not clinical failure risk; dashboard duration includes ongoing/planned trials, and enrollment type is not retained. Results coverage is not a compliance measure. PBIX interactions and refresh require local verification. Further details are in the methodology.
+Registry records may be incomplete or planned. Recorded termination is not clinical failure risk; dashboard duration includes ongoing/planned trials, and enrollment type is not retained. Results coverage is not a compliance measure. Power BI interactions and refresh have not yet been independently verified. Further details are in the methodology.
 
-**Max Pearson · University of Nottingham** — Data Analyst / BI portfolio project. Developed through guided learning; AI assisted repository editing and additional offline QA.
+**Max Pearson · University of Nottingham** — Data Analyst / BI portfolio project.

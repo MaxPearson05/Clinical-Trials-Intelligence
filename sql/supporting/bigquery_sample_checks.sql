@@ -1,6 +1,6 @@
 -- Supporting 200-study structural checks only, not full-cohort reconciliation.
 -- Replace YOUR_PROJECT.YOUR_DATASET with your own BigQuery destination.
--- Result comments are original author-reported values; not re-executed here.
+-- Recorded outputs describe the historical 200-study sample, not the full dashboard cohort.
 -- QA 1: Confirm parent trial count
 
 SELECT

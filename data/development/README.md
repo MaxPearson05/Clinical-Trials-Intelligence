@@ -1,6 +1,6 @@
 # API development sample
 
-Public ClinicalTrials.gov-derived tables from the original 200-study development extraction. These are supporting ingestion/structural evidence and **not** the dashboard dataset. See [sources and limitations](../../docs/sources-and-validation.md), including the notebook date-parsing issue and missing original raw JSON.
+These four ClinicalTrials.gov tables contain the archived 200-study API sample. They demonstrate normalisation and parent-child relationships and are separate from the dashboard dataset. The original raw JSON is not included, and the revised notebook date parsing remains unverified against that input. See [sources and limitations](../../docs/sources-and-validation.md).
 
 | File | Grain | Rows |
 | --- | --- | ---: |
@@ -9,4 +9,4 @@ Public ClinicalTrials.gov-derived tables from the original 200-study development
 | [conditions_dev_200.csv](conditions_dev_200.csv) | Study-condition record | 309 |
 | [locations_dev_200.csv](locations_dev_200.csv) | Study-location record | 3,534 |
 
-[Extraction manifest](extract-manifest.json). All child trial IDs belong to the 200 parent IDs; those structural checks were repeated during packaging. They do not validate the sample's analytical date conversions.
+[Extraction manifest](extract-manifest.json). All child trial IDs belong to the 200 parent IDs. These structural checks do not validate the sample's analytical date conversions.

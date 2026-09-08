@@ -1,13 +1,16 @@
+-- Recorded outputs below are from an earlier source run.
+-- The dashboard CSV export contains 46,955 trials; see docs/methodology.md.
+
 -- ============================================================
--- DAY 11: CLINICAL TRIAL CORE AND BRIDGES
--- Project: Clinical Trial Portfolio & Delivery Intelligence
+-- Clinical trial core and bridge validation
+-- Project: Clinical Trials Intelligence
 --
--- Locked cohort:
+-- Analytical cohort:
 -- Industry-led interventional DRUG/BIOLOGICAL studies
 -- with start dates from 2015 onwards.
 --
 -- Core grain:
--- ONE ROW PER NCT_ID
+-- One row per nct_id
 -- ============================================================
 
 
@@ -57,7 +60,8 @@ WHERE s.study_type = 'INTERVENTIONAL'
 -- nct_id is the primary analytical key for the trial-level warehouse.
     
 -- Query 2: Validate trial_core grain
--- Expected: 46,905 rows, 46,905 unique nct_ids, 0 duplicates
+-- Expected: row count equals distinct nct_id count; zero duplicates.
+-- Historical run: 46,905 rows and 46,905 distinct trials.
 
 WITH trial_core AS (
 
@@ -676,7 +680,7 @@ WHERE sp.lead_or_collaborator = 'lead'
     AND sp.agency_class = 'INDUSTRY';
 
 -- Result / purpose:
--- Creates the lead sponsor bridge for the locked analytical cohort.
+-- Creates the lead sponsor bridge for the analytical cohort.
 -- Only INDUSTRY lead sponsors are retained because this is part
 -- of the project cohort definition.
 -- Sponsor data is kept separate from trial_core to preserve
@@ -770,6 +774,6 @@ FROM sponsor_bridge;
 -- Invalid foreign keys: 0
 -- Trials without qualifying INDUSTRY lead sponsor: 0
 --
--- Confirms sponsor relationships are complete for the locked cohort.
+-- Confirms sponsor relationships are complete for the analytical cohort.
 -- Sponsor analysis can therefore be performed without changing the
 -- one-row-per-trial grain of trial_core.

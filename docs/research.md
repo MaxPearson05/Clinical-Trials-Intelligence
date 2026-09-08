@@ -1,10 +1,10 @@
-# Research questions and stakeholder interpretation
+# Research questions and interpretation
 
-The SQL research explores questions for a UK pharmaceutical/biotechnology portfolio strategy team, with clinical-operations and reporting uses. The analysis informs what to investigate; it does not demonstrate a stakeholder implemented a recommendation.
+The intended audience is UK pharmaceutical and biotechnology portfolio strategy, clinical-operations and reporting teams. The research explores trial activity, delivery and results visibility. Stakeholder adoption and business impact have not been measured.
 
 ## Question-to-analysis map
 
-| Query | Stakeholder question | Analysis and intended use | Report connection |
+| Query | Analytical question | Analysis and intended use | Report connection |
 | --- | --- | --- | --- |
 | [1. Trial activity](../sql/03_portfolio_analysis.sql#L82) | How has trial-start activity changed? | Year counts and year-on-year change; benchmark activity. | Trial Overview |
 | [2. Phase mix](../sql/03_portfolio_analysis.sql#L183) | Which phases account for changes in activity? | Phase/year comparisons; understand portfolio composition. | Trial Overview |
@@ -19,15 +19,15 @@ The SQL research explores questions for a UK pharmaceutical/biotechnology portfo
 | [11. Stop-reason categories](../sql/03_portfolio_analysis.sql#L1468) | What recurring themes appear in reported reasons? | Ordered keyword classification; distinguish recruitment, business and other themes. | Supporting delivery research |
 | [12. Results visibility](../sql/03_portfolio_analysis.sql#L1674) | Where are public results less available? | Coverage among mature completed trials; guide evidence-availability follow-up. | Geographic & Reporting |
 
-## Findings used in the portfolio write-up
+## Dashboard findings
 
-The README uses final-export values verified offline: Phase 3 median enrollment/sites **312/24**, versus Phase 1 **36/1**; UK participation **17.6% in 2015** versus **12.8% in 2025** among known-geography trials; mature results coverage **18.2% in Phase 1** versus **71.3% in Phase 3**. These support recruitment/site planning, geographic review and public-evidence monitoring respectively. [Denominators and QA](methodology.md).
+The final exports show Phase 3 median enrollment/sites of **312/24**, versus **36/1** in Phase 1; UK participation of **17.6% in 2015** versus **12.8% in 2025** among known-geography trials; and mature results coverage of **18.2% in Phase 1** versus **71.3% in Phase 3**. These findings support further investigation of recruitment capacity, geographic participation and public evidence availability. [Denominators and QA](methodology.md).
 
-The wider research adds sponsor benchmarking and inspection of recorded stop reasons. These remain useful analytical work even though they do not have standalone dashboard visuals. Sponsor names are not consolidated corporate groups; free-text categories are heuristic, order-dependent and not verified causes. Avoid presenting either as investment guidance or causal evidence.
+Additional SQL analyses examine sponsor concentration and reported stop reasons. Sponsor names are not consolidated corporate groups; free-text categories are heuristic, order-dependent and not verified causes. These findings are descriptive and do not establish investment value or causal relationships.
 
 ## Earlier SQL results are not the final dashboard refresh
 
-The research file retains original numerical comments and all query logic. Those comments are historical recorded outputs, not newly executed database results. For example, older comments record Phase 3 median enrollment/sites of **308/30**, UK 2025 share of **12.9%**, and Phase 1 results eligibility of **9,810**. The final export uses **312/24**, **12.8%**, and **9,815** respectively. Different snapshots and query filters prevent direct substitution.
+The SQL comments record an earlier source run. For example, they report Phase 3 median enrollment/sites of **308/30**, UK 2025 share of **12.9%**, and Phase 1 results eligibility of **9,810**. The final export uses **312/24**, **12.8%**, and **9,815** respectively. Source stages and query filters differ, so these values should not be substituted directly.
 
 - Query 1 includes starts up to `CURRENT_DATE`; queries 2–11 generally restrict starts to 2015–2025. Query 8 compares 2015 and 2025 and retains countries with at least 100 trials in either year.
 - Query 6 uses completed trials with valid non-negative dates. Dashboard duration includes ongoing/planned trials with valid dates.

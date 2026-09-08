@@ -1,4 +1,7 @@
--- Query 1: Curated trial-level analytical view
+-- Recorded outputs below are from an earlier source run.
+-- The dashboard CSV export contains 46,955 trials; see docs/methodology.md.
+
+-- Query 1: Trial-level export for Power BI
 -- Grain: one row per nct_id
 
 WITH trial_core AS (

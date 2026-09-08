@@ -1,6 +1,6 @@
 # Dashboard measures
 
-Analytical formulas retained from the original measure documentation. They were not extracted from or executed in the PBIX model during this review. See [methodology](methodology.md) for definitions, denominators and interpretation.
+Documented DAX definitions for the dashboard metrics. These definitions have not yet been cross-checked against every measure in the saved PBIX. See [methodology](methodology.md) for definitions, denominators and interpretation.
 
 ### Total Trials
 
